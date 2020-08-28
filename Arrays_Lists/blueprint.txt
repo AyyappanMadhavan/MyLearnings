@@ -1,0 +1,20 @@
+arrays and lists
+
+References: https://medium.com/@lucasmagnum/sidenotes-array-abstract-data-type-data-structure-b154140c8305
+
+Implementing arraylist - Java
+
+* An array (abstract data type) can be implemented using the Array data structure.
+* An arraylist data structure is a dynamic array
+
+Properties
+    1. N: Integer [Holds the size of the array]
+    
+Abstract functions
+    1. add(obj)
+    2. get(pos)
+    3. resize()
+
+    Other Utility functions
+    1. search(val)
+    2. traverse()
