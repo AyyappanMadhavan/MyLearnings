@@ -4,4 +4,8 @@ References: https://medium.com/@lucasmagnum/sidenotes-array-abstract-data-type-d
 
 Implementing arrays
 
-An array (abstract data type) can be implemented using the Array data structure.
+* An array (abstract data type) can be implemented using the Array data structure.
+* abstract functions
+    1. insert(pos, val)
+    2. retrieve(pos)
+    3. 
